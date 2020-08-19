@@ -1,0 +1,14 @@
+Short
+
+
+It is a program which can extract user defined files from your computer.
+
+
+
+Long
+
+It is a program that is used to organize files. 
+It helps users to obtain files from their computers instead of searching through folders and drive.
+
+For example, a user wants to extract all music files from a computer to a pen drive but the music files are scattered through directories on the computer.
+ExtractFrom makes this job easier by searching the computer for all music files and copying them to your required location.

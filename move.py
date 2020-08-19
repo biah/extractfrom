@@ -19,11 +19,11 @@ class Move:
 			self.filetypes = list(self.filetypes)
 			if path.splitext(filepath)[-1] in self.filetypes:
 				try:
-					shutil.copy(filepath, self.destination)
+					shutil.move(filepath, self.destination)
 				except Exception as e:
-					file = open("logs\\logs.txt", "a")
-					time = str(dt.now()[:-7])
-					file.write(time+"\n"+e)
+					file = open("logs.txt", "a")
+					time = str(dt.now())[:-7]
+					file.write(time+"\n"+str(e))
 					file.close()
 					pass
 

@@ -7,10 +7,15 @@ from tkinter import ttk
 from tkinter import filedialog
 from move import Move
 from tkinter import messagebox
+import more_menu
+import icons
+from os import remove
 #Code
 root = Tk()
 root.title("Extract From")
+root.iconbitmap("icon.ico")
 
+menubar = Menu(root)
 #Variables
 frm = StringVar()
 to = StringVar()
@@ -67,7 +72,12 @@ xtract_to_ent.grid(row = 2, column = 1)
 btn_xtract_from.grid(row = 1, column = 2, padx = 5)
 btn_xtract_to.grid(row = 2, column = 2)
 btn_extract.grid(row = 3, column = 0, pady = 20, padx = 50, columnspan =3, ipady = 3)
+
+#Other requirements
+more_menu.main(root, menubar)
+
 #End
 root.resizable(width = False, height = False)
-
+root.configure(menu = menubar)
 root.mainloop()
+remove('icon.ico')
