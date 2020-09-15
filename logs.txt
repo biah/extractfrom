@@ -1,0 +1,846 @@
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:25
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\04 Track 4.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\01 Track 1.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\02 Track 2.mp3' already exists
+2020-09-14 23:38:43
+Destination path 'C:\Users\Lucretius\Desktop\pics\03 Track 3.mp3' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_16.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_32.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_16.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_32.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_16.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_32.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_16.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_32.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_16.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_32.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_16.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_32.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_16.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_32.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_16.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_32.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_16.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_32.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_16.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_32.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_16.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_32.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_16.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_32.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_16.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_32.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Safe_Icon_96.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_128.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_16.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_256.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_32.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_48.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_64.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_72.png' already exists
+2020-09-14 23:39:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Windows_7_security_Icon_96.png' already exists
+2020-09-14 23:42:12
+Destination path 'C:\Users\Lucretius\Desktop\pics\Everything_Everything_2017_(2017)_BluRay_high_(fzmovies.net)_262a6e0afab6097e21e98f292.mp4' already exists
+2020-09-14 23:42:12
+Destination path 'C:\Users\Lucretius\Desktop\pics\Everything_Everything_2017_(2017)_BluRay_high_(fzmovies.net)_262a6e0afab6097e21e98f292.mp4' already exists
+2020-09-14 23:42:12
+Destination path 'C:\Users\Lucretius\Desktop\pics\Everything_Everything_2017_(2017)_BluRay_high_(fzmovies.net)_262a6e0afab6097e21e98f292.mp4' already exists
+2020-09-14 23:42:12
+Destination path 'C:\Users\Lucretius\Desktop\pics\Everything_Everything_2017_(2017)_BluRay_high_(fzmovies.net)_262a6e0afab6097e21e98f292.mp4' already exists
+2020-09-14 23:42:12
+Destination path 'C:\Users\Lucretius\Desktop\pics\Everything_Everything_2017_(2017)_BluRay_high_(fzmovies.net)_262a6e0afab6097e21e98f292.mp4' already exists
+2020-09-14 23:42:12
+Destination path 'C:\Users\Lucretius\Desktop\pics\Everything_Everything_2017_(2017)_BluRay_high_(fzmovies.net)_262a6e0afab6097e21e98f292.mp4' already exists
+2020-09-14 23:42:12
+Destination path 'C:\Users\Lucretius\Desktop\pics\Everything_Everything_2017_(2017)_BluRay_high_(fzmovies.net)_262a6e0afab6097e21e98f292.mp4' already exists
+2020-09-14 23:42:12
+Destination path 'C:\Users\Lucretius\Desktop\pics\Everything_Everything_2017_(2017)_BluRay_high_(fzmovies.net)_262a6e0afab6097e21e98f292.mp4' already exists
+2020-09-14 23:42:12
+Destination path 'C:\Users\Lucretius\Desktop\pics\Everything_Everything_2017_(2017)_BluRay_high_(fzmovies.net)_262a6e0afab6097e21e98f292.mp4' already exists
+2020-09-14 23:42:12
+Destination path 'C:\Users\Lucretius\Desktop\pics\Everything_Everything_2017_(2017)_BluRay_high_(fzmovies.net)_262a6e0afab6097e21e98f292.mp4' already exists
+2020-09-14 23:42:12
+Destination path 'C:\Users\Lucretius\Desktop\pics\Everything_Everything_2017_(2017)_BluRay_high_(fzmovies.net)_262a6e0afab6097e21e98f292.mp4' already exists
+2020-09-14 23:42:12
+Destination path 'C:\Users\Lucretius\Desktop\pics\Everything_Everything_2017_(2017)_BluRay_high_(fzmovies.net)_262a6e0afab6097e21e98f292.mp4' already exists
+2020-09-14 23:42:12
+Destination path 'C:\Users\Lucretius\Desktop\pics\Everything_Everything_2017_(2017)_BluRay_high_(fzmovies.net)_262a6e0afab6097e21e98f292.mp4' already exists
+2020-09-14 23:42:12
+Destination path 'C:\Users\Lucretius\Desktop\pics\Everything_Everything_2017_(2017)_BluRay_high_(fzmovies.net)_262a6e0afab6097e21e98f292.mp4' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\API.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\Links.txt' already exists
+2020-09-14 23:43:42
+Destination path 'C:\Users\Lucretius\Desktop\pics\websites.txt' already exists
