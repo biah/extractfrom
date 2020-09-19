@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="styling.css">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width = device-width, initial-scale = 1">
+        <title>How it works | ExtractFrom</title>
+    </head>
+    <body>
+        <h1>How it works</h1>
+        <hr>
+        <p>
+            ExtractFrom uses no magic, it's just uses a simple algorithm to search and extract files from places.
+        </p>
+        <h2>How it finds files in directories</h2>
+        <p>
+            Let's say you command ExtractFrom to find all images in your Hard Disk dirve and move them to your pendrive;<br>
+            First of all, ExtractFrom knows that most image files have <br> ['.jpg','.jpe', '.png', '.ico', '.jpeg','.gif', '.tiff','.tif','.icns','.webp', '.ppm', '.pnm', '.pbm', '.tga', '.pcx', '.jp2','j2k', 'jpf','jpx','jpm','mj2', 'raw', 'bmp', 'xpm'] as file extensions.<br>
+            So, with lightening speed, it starts searching through your computer iterating over every single file, if it finds<br> a file which has any of the above extensions, the file is passed through filters upon filters to verify if it is truly an image file,<br> if it passes the test, the full path to the file is stored, it keeps on till it finish searching through all your files, then since, we are moving, it starts moving the store file path contents to your pendrive. The time taken will depend on the number of files you are having in the directory you are searching through
+
+        </p>
+
+
+        <h2>How it finds files in compressed files</h2>
+        <p>
+        Again, let's take it as we are moving all music from a compressed zip file to a folder;<br>
+        ExtractFrom knows the extension of music files by heart. So, first the compressed file needs to be decompressed.<br>
+        The file is decompressed to a tempoary directory, then it searches for music files and moves them to your pendrive.
+        After that, the tempoary folder in re-compressed with the details of the original file. <br>The original file will be deleted and replaced with the tempoary decompressed folder. 
+        <br>
+        NB: The tempoary directory which will be recompressed to replace the original one will have all the details of the original, there will be no-change in name, only the files moved out will be missing from the zip-file. In the case of copy, the original compressed file is maintained and after the files are extracted from the tempoary directory, the tempoary directory will be deleted and will not touch your original zip file. Either way, no harm comes to your files.
+
+        <h3>How it finds files other types of files</h3>
+        <p>
+            By heart, ExtractFrom only recognises the extension of four file formats, audios, pictures, documents and videos<br>
+            any thing from that must be defined by the user. The user must enter the file extension of the file by precedding it with a dot. eg. '.jeta' or '.ppk', it supports multiple file extension searches at once so you can combined the two like this '.jeta, .ppk' and it will search for them for you.
+        </p>
+    </body>
+</html>

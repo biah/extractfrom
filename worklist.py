@@ -2,7 +2,6 @@ from tkinter import *
 from tkinter import ttk
 
 tasklist = [] #This empty list will contain all the tasks to execute. It contains information about the task to execute.
-
 def remove_item():
         """For this part, it is quite confusing. When a user deletes an item from the list, it must also be removed from the 
         tasklist list variable. The only way to get the correct index of the removed treeview item is to concatenate it's values
@@ -22,7 +21,12 @@ def remove_item():
         index_to_pop = tasklist.index(newlist)
         treeview.delete(item_id)
         tasklist.pop(index_to_pop)
-        
+
+def delete_all():
+    try:
+        treeview.delete(*treeview.get_children())
+    except Exception as message:
+        print('Error at delete all ',message)
 
 def update():
         try:
@@ -42,7 +46,7 @@ def Worklist(): #This is the main  part of the window
     toplevel.title('Queue List') #The title
     toplevel.iconbitmap('icons/icon.ico')
     remove_from_queue_button_image = PhotoImage(file = r'icons//remove.png') 
-    toplevel.minsize(height = 250, width = 60)
+    toplevel.minsize(height = 250, width = 500)
     treeview = ttk.Treeview(toplevel, columns = ( 'File type', 'extract from', 'from directory', 'to directory', 'mode'))
     treeview.grid(row = 0,column = 0, sticky = W+E+S+N)
     treeview.bind('<<TreeviewSelect>>')
@@ -68,10 +72,17 @@ def Worklist(): #This is the main  part of the window
     remove_button = ttk.Button(toplevel, command = remove_item,image = remove_from_queue_button_image, text = 'Remove', compound = LEFT)
     remove_button.image = remove_from_queue_button_image
     remove_button.grid(row = 2, column = 0, sticky = W, padx = 25, pady = 5, ipady = 3)
+    remove_all_button = ttk.Button(toplevel,compound = LEFT,text = 'Remove all',command = delete_all, image = remove_from_queue_button_image)
+    remove_all_button.grid(row = 2, column = 0, ipady = 3)
 
+ 
     
 def show():
-    Worklist()
-    for i in tasklist:
-        treeview.insert('', 'end', text = i[0], values = i[1:], tags = i[0])
+    try:
+        if toplevel.state() == 'normal':
+            toplevel.destroy()
+    except:
+        Worklist()
+        for i in tasklist:
+            treeview.insert('', 'end', text = i[0], values = i[1:], tags = i[0])
 

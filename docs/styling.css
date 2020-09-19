@@ -1,0 +1,38 @@
+p {
+    font-size: 21px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+h2 {
+    color: white;
+    font-size: 28;
+}
+
+ul li {
+    font-size: 19px;
+}
+
+h3 {
+    font-size: 25px;
+    color: white;
+}
+
+
+ul li a {
+    text-decoration: none;
+    color: orange;
+}
+
+
+
+body {
+    background-image: url('images/wallpaper.jpg');
+    color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
